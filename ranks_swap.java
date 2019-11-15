@@ -1,7 +1,7 @@
 package ch6;
 
 public class Ch6_4 {
-
+		// 矩阵行列互换
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		int arr[][] = {{1, 2, 3}, {4, 5, 6}, {7, 8, 9}};
